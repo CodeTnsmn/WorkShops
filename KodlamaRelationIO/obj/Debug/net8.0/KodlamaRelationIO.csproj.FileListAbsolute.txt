@@ -1,0 +1,14 @@
+D:\C#\KodlamaRelationIO\KodlamaRelationIO\obj\Debug\net8.0\KodlamaRelationIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\KodlamaRelationIO\KodlamaRelationIO\obj\Debug\net8.0\KodlamaRelationIO.AssemblyInfoInputs.cache
+D:\C#\KodlamaRelationIO\KodlamaRelationIO\obj\Debug\net8.0\KodlamaRelationIO.AssemblyInfo.cs
+D:\C#\KodlamaRelationIO\KodlamaRelationIO\obj\Debug\net8.0\KodlamaRelationIO.csproj.CoreCompileInputs.cache
+D:\C#\KodlamaRelationIO\KodlamaRelationIO\bin\Debug\net8.0\KodlamaRelationIO.exe
+D:\C#\KodlamaRelationIO\KodlamaRelationIO\bin\Debug\net8.0\KodlamaRelationIO.deps.json
+D:\C#\KodlamaRelationIO\KodlamaRelationIO\bin\Debug\net8.0\KodlamaRelationIO.runtimeconfig.json
+D:\C#\KodlamaRelationIO\KodlamaRelationIO\bin\Debug\net8.0\KodlamaRelationIO.dll
+D:\C#\KodlamaRelationIO\KodlamaRelationIO\bin\Debug\net8.0\KodlamaRelationIO.pdb
+D:\C#\KodlamaRelationIO\KodlamaRelationIO\obj\Debug\net8.0\KodlamaRelationIO.dll
+D:\C#\KodlamaRelationIO\KodlamaRelationIO\obj\Debug\net8.0\refint\KodlamaRelationIO.dll
+D:\C#\KodlamaRelationIO\KodlamaRelationIO\obj\Debug\net8.0\KodlamaRelationIO.pdb
+D:\C#\KodlamaRelationIO\KodlamaRelationIO\obj\Debug\net8.0\KodlamaRelationIO.genruntimeconfig.cache
+D:\C#\KodlamaRelationIO\KodlamaRelationIO\obj\Debug\net8.0\ref\KodlamaRelationIO.dll
